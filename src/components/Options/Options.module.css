@@ -1,0 +1,8 @@
+button {
+  cursor: pointer;
+}
+
+.container {
+  display: flex;
+  gap: 8px;
+}
